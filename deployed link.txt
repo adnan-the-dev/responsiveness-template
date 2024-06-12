@@ -1,1 +1,1 @@
-https://responsiveness-template.surge.sh/
+responsiveness-template.surge.sh
